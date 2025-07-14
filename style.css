@@ -1,0 +1,17 @@
+h1
+{   
+    background-color: chocolate;
+    color: burlywood;
+    padding: auto;
+}
+body
+{
+    text-align: center;
+    background-color: aqua;
+    padding: auto;
+}
+button
+{
+    color: red;
+    border-radius: 5%;
+}
